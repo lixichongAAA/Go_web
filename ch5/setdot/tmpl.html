@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Lxc Is Your Father</title>
+    </head>
+    <body>
+        <div>The Dot is {{ . }}</div>
+        <div>
+            {{ with "" }}
+                Now The dot is {{ . }}
+            {{ else }}
+                The dot is still {{ . }}
+            {{ end }}
+        </div>
+        <div>The Dot is {{ . }} again</div>
+    </body>
+</html>
