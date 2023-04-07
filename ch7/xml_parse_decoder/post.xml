@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post id="1">
+    <content>Hello World!</content>
+    <author id="2">Lxc</author>
+    <comments>
+        <comment id="1">
+            <content>利息冲进字节</content>
+            <author id="3">Adam</author>
+        </comment>
+        <comment id="2">
+            <content>哈哈哈</content>
+            <author id="4">Betty</author>
+        </comment>
+    </comments>
+</post>
