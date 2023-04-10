@@ -5,7 +5,7 @@
         "id": 2,
         "name": "lxc"
     },
-    "comments" : [
+    "comments": [
         {
             "id": 2,
             "content": "Have a good day!",
@@ -14,7 +14,7 @@
         {
             "id": 3,
             "content": "yyy",
-            "author" : "csv"
+            "author": "csv"
         }
     ]
 }
