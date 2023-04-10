@@ -21,7 +21,7 @@ import (
 // }
 
 // 串联处理器
-
+// 会先打印 222 后打印111
 // type HelloHandler struct{}
 
 // func (h HelloHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
